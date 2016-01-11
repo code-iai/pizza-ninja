@@ -15,3 +15,7 @@
     local-name: expressiongraph
     uri: https://github.com/airballking/expressiongraph.git
     version: catkin
+- git:
+    local-name: giskard
+    uri: https://github.com/airballking/giskard.git
+    version: master
