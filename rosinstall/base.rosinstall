@@ -7,3 +7,7 @@
     local-name: pizza_ninja
     uri: https://github.com/code-iai/pizza_ninja.git
     version: master
+- git:
+    local-name: qpOASES
+    uri: https://github.com/airballking/qpOASES.git
+    version: master
