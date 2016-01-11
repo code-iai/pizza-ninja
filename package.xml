@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>pizza_ninja</name>
+  <version>0.0.1</version>
+  <description>
+    The pizza cutting/rearrangement related stuff.
+  </description>
+
+  <maintainer email="mpomarlan@yahoo.co.uk ">Mihai Pomarlan</maintainer>
+
+  <author email="georg.bartels@cs.uni-bremen.de">Georg Bartels</author>
+  <author email="mpomarlan@yahoo.co.uk ">Mihai Pomarlan</author>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
