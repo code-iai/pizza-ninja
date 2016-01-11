@@ -11,3 +11,7 @@
     local-name: qpOASES
     uri: https://github.com/airballking/qpOASES.git
     version: master
+- git:
+    local-name: expressiongraph
+    uri: https://github.com/airballking/expressiongraph.git
+    version: catkin
