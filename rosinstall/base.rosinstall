@@ -23,3 +23,8 @@
     local-name: giskard_examples
     uri: https://github.com/airballking/giskard_examples.git
     version: master
+- git:
+    local-name: meshproc
+    uri: https://github.com/mpomarlan/meshproc.git
+    version: master
+
