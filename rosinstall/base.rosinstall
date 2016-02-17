@@ -27,4 +27,7 @@
     local-name: meshproc
     uri: https://github.com/mpomarlan/meshproc.git
     version: master
-
+- git:
+    local-name: pizza-ninja-aux
+    uri: https://github.com/mpomarlan/pizza-ninja-aux.git
+    version: master
