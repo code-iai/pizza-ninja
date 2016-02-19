@@ -20,6 +20,10 @@
     uri: https://github.com/airballking/giskard.git
     version: master
 - git:
+    local-name: giskard_msgs
+    uri: https://github.com/mpomarlan/giskard_msgs.git
+    version: master    
+- git:
     local-name: giskard_examples
     uri: https://github.com/airballking/giskard_examples.git
     version: master
